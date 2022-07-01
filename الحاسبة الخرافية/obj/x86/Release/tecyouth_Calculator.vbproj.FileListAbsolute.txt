@@ -1,0 +1,52 @@
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.exe.config
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.exe
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.pdb
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.xml
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\ar\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\en-AU\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\en\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form2.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form3.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form4.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form5.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form6.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form7.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Resources.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.ar.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.en-AU.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.en.resources
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_Calculator.vbproj.GenerateResource.Cache
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\ar\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\en-AU\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\en\tecyouth_calculator.resources.dll
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.exe
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.xml
+D:\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.pdb
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.exe.config
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.exe
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.pdb
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\tecyouth_calculator.xml
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\ar\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\en-AU\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\bin\Release\en\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_Calculator.vbproj.AssemblyReference.cache
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form2.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form3.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form4.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form5.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form6.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form7.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Resources.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.ar.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.en-AU.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.Form1.en.resources
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_Calculator.vbproj.GenerateResource.cache
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_Calculator.vbproj.CoreCompileInputs.cache
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\ar\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\en-AU\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\en\tecyouth_calculator.resources.dll
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.exe
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.xml
+F:\old is gold\مشاريع\الحاسبة الخرافية - Copy\الحاسبة الخرافية\obj\x86\Release\tecyouth_calculator.pdb

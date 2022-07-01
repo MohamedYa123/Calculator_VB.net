@@ -1,0 +1,29 @@
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Form1.resources
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Resources.resources
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.vbproj.GenerateResource.Cache
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.exe
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.pdb
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.xml
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.exe
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.xml
+C:\Users\king m\AppData\Local\Temporary Projects\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.pdb
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.exe
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.xml
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.pdb
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.exe
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.pdb
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.xml
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Form1.resources
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Resources.resources
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة الخرافية.vbproj.GenerateResource.Cache
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Form1.ar.resources
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Form1.en-AU.resources
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\الحاسبة_الخرافية.Form1.en.resources
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\ar\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\en-AU\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\en\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\ar\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\en-AU\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\obj\x86\Debug\en\الحاسبة الخرافية.resources.dll
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\الحاسبة الخرافية.exe.config
+D:\مشاريع\الحاسبة الخرافية\الحاسبة الخرافية\bin\Debug\حاسبة_شباب_التقينة.exe.config
